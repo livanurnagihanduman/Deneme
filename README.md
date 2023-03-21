@@ -1,2 +1,2 @@
-# Deneme
-Bu repoda sadecce java8 dosyaları yer almaktadır..
+# OOP demo
+Bu repoda OOP ile ilgili proje yer almaktadır.
